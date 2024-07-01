@@ -4,10 +4,6 @@
   "description": "",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "exports": {
-    "./package.json": "./package.json",
-    ".": "./dist/index.js"
-  },
   "directories": {
     "lib": "lib"
   },
